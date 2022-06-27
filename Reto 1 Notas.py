@@ -3,7 +3,7 @@ nombre_estudiante = input('Ingrese su nombre :')
 nombre_materia = input('Ingrese el nombre de la materia :')   #se solicitan datos 
 boleano=True
 prom_acu = 0
-nota_acu = 0             
+nota_acu = 0          
 nota_acu_red =0
 nueva_notas = ""
 while boleano :
