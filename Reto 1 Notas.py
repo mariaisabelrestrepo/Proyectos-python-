@@ -2,7 +2,7 @@ print("¡Bienvenido! En esta aplicación los estudiantes podrán gestionar las n
 nombre_estudiante = input('Ingrese su nombre :')
 nombre_materia = input('Ingrese el nombre de la materia :')   #se solicitan datos 
 boleano=True
-prom_acu = 0
+prom_acu = 0   
 nota_acu = 0          
 nota_acu_red =0
 nueva_notas = ""
@@ -64,7 +64,7 @@ Nombre = input ("Por favor ingrese su nombre: ")
 Materia= input ("Ingrese el nombre de la materia: ")
 BucleNota= True
 ContadorProm=0
-AcumNota=float(0)
+AcumNota=float(0) # ensayo 
 Pregunta= 'S'
 while(BucleNota):
 
