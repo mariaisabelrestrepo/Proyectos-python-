@@ -1,3 +1,5 @@
+#soluciones sobre el reto de la tienda ciclo 1
+
 '''seguir = "S"
 total = 0
 subtotal=0
@@ -16,6 +18,7 @@ while seguir == "S" or seguir == "s":
    total = total + subtotal 
    seguir = input ("¿Faltan productos por cobrar? S/N: ").upper()
 print(f"TOTAL A COBRAR: {subtotal}")'''
+
 seguir = "S"
 subtotal = 0
 while seguir=="S":
